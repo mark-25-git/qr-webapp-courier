@@ -1,0 +1,7 @@
+cd C:\Users\USER\Desktop\qr-webapp-courier
+
+git add .
+
+git commit -m "Describe your change here"
+
+git push origin main
